@@ -17,6 +17,7 @@ System Support
 Utilised test equipment such as signal meters to verify system perfomance during installation or repairs
 ### Project
 ## IOT in Smart Home Automation
+
 Impact of Smart Home Technologies:  
   - Provide comfort, efficiency, and convenience.  
   - Rapid growth with billions of IoT devices globally.
