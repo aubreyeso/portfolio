@@ -1,4 +1,5 @@
 tittle: Aubrey Eso Jozela
-logo: /assets/img/aubrey.JPG
-description: text below image
-show_downloads: true
+#logo: /assets/img/aubrey.JPG
+#description: text below image
+#show_downloads: true
+theme: jekyll-theme-minimal
