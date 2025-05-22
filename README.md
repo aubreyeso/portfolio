@@ -1,4 +1,5 @@
-# Communication Network
+# ICT INTERNSHIP
+I am currently a student at Cape Peninsula University of Technology diong my final year in ICT Diploma, and also obtaining an NQF level 5 certificate in IT System Support at Masifunde Training and Development at Woodstock.
 
 Technical skills: Python, SQL, HTML, Java
 
